@@ -13,8 +13,9 @@ Foram utilizadas três imagens com diferentes conteúdos visuais e textuais. Aba
 
 ### 🟠 Exemplo 1 – Naruto Uzumaki
 
-**📥 Input:** [`Input - Naruto.jpg`](Input%20-%20Naruto.jpg)  
-**📤 Output:** [`Output - Naruto.jpeg`](Output%20-%20Naruto.jpeg)
+**📥 Input:** ![Imagem Naruto](Inputs/Input-Naruto.jpg)
+  
+**📤 Output:** ![Saida Naruto](Outputs/Output%20-%20Naruto.jpeg)
 
 **🧠 Análise:**  
 A IA identificou o **texto** da imagem com precisão, reconheceu o **personagem** e suas **características visuais** (cabelos loiros, roupas, cachecol branco). Além disso, interpretou a frase como uma **mensagem de superação**, acrescentando uma leitura emocional e inspiradora.
@@ -23,8 +24,11 @@ A IA identificou o **texto** da imagem com precisão, reconheceu o **personagem*
 
 ### 🟢 Exemplo 2 – Poema Geométrico
 
-**📥 Input:** [`Input - Poema.jpg`](Input%20-%20Poema.jpg)  
-**📤 Output:** [`Output - poema.jpeg`](Output%20-%20poema.jpeg)
+
+**📥 Input:** ![Imagem Poema](Inputs/Input-Poema.jpg)
+  
+**📤 Output:** ![Saida Poema](Outputs/Output%20-%20poema.jpeg)
+
 
 **🧠 Análise:**  
 A IA extraiu com sucesso o **texto manuscrito** da imagem, reconheceu a palavra "GEOMETRIA" e identificou os blocos com letras ("P", "N", "A", "I", "C"). Sugeriu ainda um possível uso lúdico ou educacional da imagem, **indo além da leitura literal**.
@@ -33,8 +37,9 @@ A IA extraiu com sucesso o **texto manuscrito** da imagem, reconheceu a palavra 
 
 ### 🌸 Exemplo 3 – Sakura Haruno
 
-**📥 Input:** [`Input - Sakura.jpg`](Input%20-%20Sakura.jpg)  
-**📤 Output:** [`Output - sakura.jpeg`](Output%20-%20sakura.jpeg)
+**📥 Input:** ![Imagem Poema](Inputs/input-Sakura.jpg)
+  
+**📤 Output:** ![Saida Poema](Outputs/Output%20-%20sakura.jpeg)
 
 **🧠 Análise:**  
 A IA descreveu fielmente a personagem, o cenário com pétalas de flor de cerejeira, a pose de luta e a **mensagem inspiradora** da citação. Além de reconhecer os elementos, **entregou um comentário sensível e reflexivo** sobre a importância das experiências pessoais.
